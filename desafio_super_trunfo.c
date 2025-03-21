@@ -6,7 +6,7 @@
     int populacao1, populacao2, pontos1, pontos2;
     double area1, area2, pib1, pib2;
 
-    //Entrada de dados da primeira carta
+    //Entrada de dados da primeira  carta
     printf("Carta 1: \n");
     printf(" 1-Digite uma letra de um estado de 'A' a 'H: ");
     scanf(" %c" , &estado1);
